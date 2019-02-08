@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>最新文章</title>
+      <link href="/article/1.html"/>
+      <url>/article/1.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 最新文章 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 最新文章 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>普通文章</title>
+      <link href="/article/2.html"/>
+      <url>/article/2.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 普通文章 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 普通文章 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>置顶文章</title>
+      <link href="/article/article-top.html"/>
+      <url>/article/article-top.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="HEXO基础视频教程"><a href="#HEXO基础视频教程" class="headerlink" title="HEXO基础视频教程"></a>HEXO基础视频教程</h2><p>以下两部视频为博主亲自制作的HEXO教程，专门提供给各位小白朋友学习HEXO的基本搭建和文章的发布。</p><blockquote><p>1.【利用代码托管平台与Hexo搭建个人博客】B站传送门：<br><a href="https://www.bilibili.com/video/av36175038" target="_blank" rel="noopener">https://www.bilibili.com/video/av36175038</a></p></blockquote><blockquote><p>2.【Hexo主题安装配置与创建文章页面】B站传送门：<br><a href="https://www.bilibili.com/video/av36820037" target="_blank" rel="noopener">https://www.bilibili.com/video/av36820037</a></p></blockquote><blockquote><p>2.【Hexo主题安装配置与创建文章页面】B站传送门：、</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 置顶文章 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 置顶文章 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
+</search>

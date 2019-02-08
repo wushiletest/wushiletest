@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MaterialPlus</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="www.xxx.com/"/>
+  <updated>2019-01-23T06:04:51.030Z</updated>
+  <id>www.xxx.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>最新文章</title>
+    <link href="www.xxx.com/article/1.html"/>
+    <id>www.xxx.com/article/1.html</id>
+    <published>2019-01-23T05:40:58.000Z</published>
+    <updated>2019-01-23T06:04:51.030Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="最新文章" scheme="www.xxx.com/categories/%E6%9C%80%E6%96%B0%E6%96%87%E7%AB%A0/"/>
+    
+    
+      <category term="最新文章" scheme="www.xxx.com/tags/%E6%9C%80%E6%96%B0%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>普通文章</title>
+    <link href="www.xxx.com/article/2.html"/>
+    <id>www.xxx.com/article/2.html</id>
+    <published>2019-01-23T05:40:18.000Z</published>
+    <updated>2019-01-23T06:09:13.738Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="普通文章" scheme="www.xxx.com/categories/%E6%99%AE%E9%80%9A%E6%96%87%E7%AB%A0/"/>
+    
+    
+      <category term="普通文章" scheme="www.xxx.com/tags/%E6%99%AE%E9%80%9A%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>置顶文章</title>
+    <link href="www.xxx.com/article/article-top.html"/>
+    <id>www.xxx.com/article/article-top.html</id>
+    <published>2018-11-22T03:35:22.000Z</published>
+    <updated>2019-02-06T05:51:11.926Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="HEXO基础视频教程"><a href="#HEXO基础视频教程" class="headerlink" title="HEXO基础视频教程"></a>HEXO基础视频教程</h2><p>以下两部视频为博主亲自制作的HEXO教程，专门提供给各位小白朋友学习HEXO的基本搭建和文章的发布。</p><blockquote><p>1.【利用代码托管平台与Hexo搭建个人博客】B站传送门：<br><a href="https://www.bilibili.com/video/av36175038" target="_blank" rel="noopener">https://www.bilibili.com/video/av36175038</a></p></blockquote><blockquote><p>2.【Hexo主题安装配置与创建文章页面】B站传送门：<br><a href="https://www.bilibili.com/video/av36820037" target="_blank" rel="noopener">https://www.bilibili.com/video/av36820037</a></p></blockquote><blockquote><p>2.【Hexo主题安装配置与创建文章页面】B站传送门：、</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;HEXO基础视频教程&quot;&gt;&lt;a href=&quot;#HEXO基础视频教程&quot; class=&quot;headerlink&quot; title=&quot;HEXO基础视频教程&quot;&gt;&lt;/a&gt;HEXO基础视频教程&lt;/h2&gt;&lt;p&gt;以下两部视频为博主亲自制作的HEXO教程，专门提供给各位小白朋友学习HEXO
+      
+    
+    </summary>
+    
+      <category term="置顶文章" scheme="www.xxx.com/categories/%E7%BD%AE%E9%A1%B6%E6%96%87%E7%AB%A0/"/>
+    
+    
+      <category term="置顶文章" scheme="www.xxx.com/tags/%E7%BD%AE%E9%A1%B6%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
+  
+</feed>
